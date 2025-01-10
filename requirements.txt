@@ -5,7 +5,7 @@ notebook
 numpy
 matplotlib
 seaborn
-python-box==6.0.2
+python-box==4.0.2
 pyYAML
 tqdm
 ensure==1.0.2
@@ -15,3 +15,7 @@ scipy
 Flask
 Flask-Cors
 -e . # Required because of the presence of setup.py and it will help to install src folder as a package
+
+
+
+
